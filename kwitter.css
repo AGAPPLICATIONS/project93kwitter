@@ -1,0 +1,28 @@
+
+#containerr{
+width: 80%;
+height: 60%;
+margin-top: 100px;
+margin-left: 150px;
+float: center;
+background:linear-gradient(red,yellow,white);
+
+}
+#confirmusername{
+ margin-top: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-width: 5px;
+border-color: darkcyan;
+width: 15%;
+
+
+}
+#confirmusername:hover{
+    margin-top: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   border-width: 8px;
+   border-color: rgb(6, 107, 107);
+   font-weight: bold;
+   width: 20%;
+
+}
